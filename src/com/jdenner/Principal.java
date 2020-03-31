@@ -10,7 +10,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 /**
  * Classe principal que inicia a aplicação
  *
- * @author Juliano
+ * @author Rhassan
  */
 public class Principal {
 
